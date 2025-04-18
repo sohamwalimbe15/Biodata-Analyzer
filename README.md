@@ -52,12 +52,6 @@ conda activate formfill
 streamlit run app.py
 ```
 
-## Download Ollama
-
-Ollama is used to pull the required LLM model (Mistral).  
-Download and install it from the official website:  
-**[Download Ollama](https://ollama.com)**
-
 ## Demonstration
 
 ### Form Filler
