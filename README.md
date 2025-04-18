@@ -1,6 +1,6 @@
 # Biodata & Job Description Analyzer
 
-A Streamlit-based application that extracts structured biodata information from resumes (PDF or text) and performs a job description review to compare the candidate's skills and experience with the job requirements.
+A Streamlit-based application that extracts structured biodata information from resume/personal information (PDF or text) and performs a job description review to compare the candidate's skills and experience with the job requirements.
 
 ## Project Overview
 
@@ -60,10 +60,10 @@ Download and install it from the official website:
 
 ## Demonstration
 
-Below are two placeholder images demonstrating the working of the application. Replace them with your actual screenshots in the `images/` directory.
-
-### Home Screen
-![Home Screen](images/home_screen.png)
+### Form Filler
+![Form_filler - 1](images/filler-1.png)
+![Form_filler - 2](images/filler-2.png)
 
 ### Analysis Report
-![Analysis Report](images/analysis_report.png)
+![Analysis Report - 1](images/jd-1.png)
+![Analysis Report - 2](images/jd-2.png)
