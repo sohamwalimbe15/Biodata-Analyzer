@@ -1,0 +1,8 @@
+streamlit
+langchain==0.1.14
+langchain-community
+pdfplumber
+pytesseract
+Pillow
+PyMuPDF
+pydantic==1.10.13
