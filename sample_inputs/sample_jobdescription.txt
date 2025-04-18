@@ -1,0 +1,16 @@
+We are hiring a Machine Learning Engineer to join our AI research team focused on building scalable and efficient machine learning solutions.
+
+**Responsibilities:**
+- Design and implement ML pipelines for real-time prediction tasks
+- Train and evaluate deep learning models
+- Collaborate with cross-functional teams to integrate ML models into products
+
+**Requirements:**
+- Strong foundation in Python, TensorFlow or PyTorch
+- Experience with cloud services like AWS or Azure
+- Knowledge of data preprocessing, feature engineering, and model evaluation
+- Background in NLP or Computer Vision is a plus
+
+**Preferred:**
+- Experience with large-scale datasets
+- Familiarity with MLOps tools and practices
