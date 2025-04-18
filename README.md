@@ -41,7 +41,7 @@ Before running the application, ensure you have the following installed:
 5. **Run the App**  
    Launch the Streamlit app:
    ```bash
-   streamlit run filler.py
+   streamlit run app.py
    ```
 
 ## How to Run the Application Again
@@ -49,7 +49,7 @@ Before running the application, ensure you have the following installed:
 Once everything is set up, just activate the environment and run:
 ```bash
 conda activate formfill
-streamlit run filler.py
+streamlit run app.py
 ```
 
 ## Download Ollama
